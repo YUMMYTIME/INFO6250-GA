@@ -2,7 +2,7 @@
 Genetic Algorithm: Draw a picture according to the given picture
 
 Yuhan Wang   
-Yumeng Wang   NUID: 001828064
+Yumeng Wang  
 Group number: #317
 
 
